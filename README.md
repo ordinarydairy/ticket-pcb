@@ -12,7 +12,8 @@ oh boy i hope the nfc tag works!
 
 # BOM
 
-| Item | Quantity | Price | Link |
-| Board | 1 | $24.51| https://jlcpcb.com/|
-| Capacitor | 1 | $0.97| https://www.lcsc.com/product-detail/C21120.html |
-| NTAG | 1 | $3.77| https://www.lcsc.com/product-detail/C710403.html | 
+| Item      | Quantity | Price   | Link                                 |
+|-----------|----------|---------|--------------------------------------|
+| Board     | 1        | $24.51. | https://jlcpcb.com/                  |
+| Capacitor | 1        | $0.97   | https://www.lcsc.com/product-detail/C21120.html |
+| NTAG.     | 1        | $3.77.  | https://www.lcsc.com/product-detail/C710403.html | 
