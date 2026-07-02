@@ -1,5 +1,5 @@
 # ticket-pcb
-ticket pcb
+UPDATING RN DONT SMITE MEEE
 
 oh boy i hope the nfc tag works!
 
